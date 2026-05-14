@@ -2,6 +2,7 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
+import { Sparkles } from "lucide-react";
 import ContactSplitForm from '@/components/sections/contact/ContactSplitForm';
 import FaqBase from '@/components/sections/faq/FaqBase';
 import FeatureCardMedia from '@/components/sections/feature/FeatureCardMedia';
@@ -47,6 +48,8 @@ export default function LandingPage() {
       <HeroBillboardGallery
       background={{
         variant: "gradient-bars"}}
+      tag="Over 1,200+ Waitlisted"
+      tagIcon={Sparkles}
       title="From pendant to wrist."
       description="Premium compatible wrist straps and styling accessories designed for every Royal Pop color. Independent compatible accessories for Royal Pop owners."
       buttons={[
