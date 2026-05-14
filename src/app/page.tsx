@@ -78,19 +78,19 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114219-egmfoyoy.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114219-egmfoyoy.png?_wi=1",
           imageAlt: "Royal Pop White Strap",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-n5455ijh.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-n5455ijh.png?_wi=1",
           imageAlt: "Royal Pop Pink Strap",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-m8ctdibr.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-m8ctdibr.png?_wi=1",
           imageAlt: "Royal Pop Green Strap",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-g6ub0i5e.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-g6ub0i5e.png?_wi=1",
           imageAlt: "Royal Pop Black Strap",
         },
         {
@@ -128,28 +128,28 @@ export default function LandingPage() {
           title: "Secure Fit",
           description: "Designed to hold your Royal Pop with confidence.",
           tag: "01",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114219-egmfoyoy.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114219-egmfoyoy.png?_wi=2",
         },
         {
           id: "f2",
           title: "Color-Matched Design",
           description: "Straps created to complement every Royal Pop color.",
           tag: "02",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-n5455ijh.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-n5455ijh.png?_wi=2",
         },
         {
           id: "f3",
           title: "Clean Styling",
           description: "A minimal wearable look made for everyday use.",
           tag: "03",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-m8ctdibr.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-m8ctdibr.png?_wi=2",
         },
         {
           id: "f4",
           title: "Independent Accessory",
           description: "Designed by RoyalPop Select as a compatible concept.",
           tag: "04",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-g6ub0i5e.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-g6ub0i5e.png?_wi=2",
         },
       ]}
       title="The Wrist Kit"
@@ -169,28 +169,28 @@ export default function LandingPage() {
           name: "Raspberry Pink",
           price: "Concept",
           variant: "Pink",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-n5455ijh.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-n5455ijh.png?_wi=3",
         },
         {
           id: "c2",
           name: "Turquoise Mint",
           price: "Concept",
           variant: "Green",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-m8ctdibr.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-m8ctdibr.png?_wi=3",
         },
         {
           id: "c3",
           name: "Midnight Charcoal",
           price: "Concept",
           variant: "Black",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-g6ub0i5e.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114220-g6ub0i5e.png?_wi=3",
         },
         {
           id: "c4",
           name: "Silver Ivory",
           price: "Concept",
           variant: "White",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114219-egmfoyoy.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DiHVpvKtHQYrAXbIa9LZ6hs5Mg/uploaded-1778758114219-egmfoyoy.png?_wi=3",
         },
       ]}
       title="Designed for every Royal Pop color."
